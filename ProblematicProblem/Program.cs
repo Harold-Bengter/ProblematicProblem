@@ -106,7 +106,7 @@ namespace ProblematicProblem
                 {
                     Console.WriteLine($"Oh no! Looks like you are too young to do {randomActivity}");
 
-                    Console.WriteLine("We'll generate anoter activity for you");
+                    Console.WriteLine("We'll generate anoter activity for you shotly!");
                     Console.Write(". ");
                     Thread.Sleep(1000);
 
